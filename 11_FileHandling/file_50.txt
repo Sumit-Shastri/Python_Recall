@@ -1,0 +1,2 @@
+This text file if created to find the most frequent word in this file.
+What do you think , which word is the most frequent.
